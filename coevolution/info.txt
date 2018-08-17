@@ -1,0 +1,1 @@
+This folder contains alignments, scripts, and datasets used for the plastid-nuclear coevolution analysis.
