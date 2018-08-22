@@ -1,0 +1,938 @@
+#NEXUS
+[!matrix with indels coded according to modified complex coding]
+[!compiled on Tue Dec 19 10:50:22 MST 2017 with SeqState version 1.4.1 build 02.10.2009]
+
+BEGIN TAXA;
+	DIMENSIONS ntax=338;
+	TAXLABELS  Amborella_trichopoda Trithuria_inconspicua Nuphar_advena Nymphaea_alba Illicium_oligandrum Drimys_granadensis Piper_cenocladum Calycanthus_floridus Machilus_yunnanensis Liriodendron_tulipifera Magnolia_kwangsiensis Chloranthus_spicatus Heliconia_collinsiana Musa_textilis Ravenala_madagascariensis Curcuma_roscoeana Zingiber_spectabile Ananas_comosus Typha_latifolia Carex_siderosticta1 Carex_siderosticta2 Carex_siderosticta3 Anomochloa_marantoidea Pharus_lappulaceus Puelia_olyriformis Ferrocalamus_rimosivaginus Bambusa_oldhamii Oryza_sativa Bromus_vulgaris Triticum_aestivum Aristida_purpurea Zea_mays Phragmites_australis Isachne_distichophylla Eragrostis_minor Danthonia_californica Syagrus_coronata Elaeis_guineensis Podococcus_barteri Calamus_caryotoides Pseudophoenix_vinifera Bismarckia_nobilis Colpothrinax_cookii Phoenix_dactylifera Sabal_domingensis Dasypogon_bromeliifolius Allium_cepa Eustrephus_latifolius Polygonatum_cyrtonema Iris_gatesii Cypripedium_macranthos Paphiopedilum_niveum Phragmipedium_longifolium Bletilla_striata Calanthe_triplicata Cymbidium_aloifolium Erycina_pusilla Oncidium_hybrid Corallorhiza_bulbosa Cattleya_crispata Masdevallia_coccinea Dendrobium_catenatum avis Epipogium_roseum Elleanthus_sodiroi Sobralia_callosa Phalaenopsis_aphrodite Goodyera_fumata Rhizanthella_gardneri Habenaria_pantlingiana Vanilla_planifolia Campynema_lineare Fritillaria_cirrhosa Lilium_hansonii Heloniopsis_tubiflora Paris_verticillata Trillium_cuneatum Trillium_tschonoskii Veratrum_patulum Xerophyllum_tenax Bomarea_edulis Luzuriaga_radicans Dioscorea_elephantipes Metanarthecium_luteoviride Carludovica_palmata Sciaphila_densiflora Petrosavia_stellaris1 Pinellia_ternata Colocasia_esculenta Lemna_minor Spirodela_polyrhiza Wolffia_australiana Wolffiella_lingulata Dieffenbachia_seguine Elodea_canadensis Najas_flexilis Acorus_calamus Ceratophyllum_demersum Euptelea_pleiosperma Papaver_somniferum Akebia_trifoliata Nandina_domestica Sinopodophyllum_hexandrum Berberis_bealei Epimedium_sagittatum Megaleranthis_saniculifolia Clematis_terniflora Ranunculus_macranthus Thalictrum_coreanum Stephania_japonica Nelumbo_lutea Platanus_occidentalis Macadamia_integrifolia Meliosma_aff Tetracentron_sinense Trochodendron_aralioides Buxus_microphylla Pachysandra_terminalis Fagopyrum_esculentum Rheum_palmatum Spinacia_oleracea Salicornia_brachiata Haloxylon_ammodendron Colobanthus_quitensis Agrostemma_githago Silene_chalcedonica1 Silene_chalcedonica2 Silene_paradoxa Silene_latifolia Silene_vulgaris Silene_conica Silene_conoidea Silene_noctiflora Cryophytum_crystallinum Carnegiea_gigantea Ardisia_polysticta Lysimachia_coreana Primula_poissonii Vaccinium_macrocarpon Camellia_cuspidata Camellia_sinensis Ligusticum_tenuissimum Anethum_graveolens Foeniculum_vulgare Angelica_acutiloba Seseli_montanum Pastinaca_pimpinellifolia Bupleurum_falcatum Daucus_carota Anthriscus_cerefolium Aralia_undulata Brassaiopsis_hainla Dendropanax_dentiger Eleutherococcus_senticosus Fatsia_japonica Kalopanax_septemlobus Metapanax_delavayi Panax_ginseng Schefflera_delavayi Lonicera_japonica Artemisia_frigida Chrysanthemum_x Aster_spathulifolius Leontopodium_leiolepis Ageratina_adenophora Praxelis_clematidea Helianthus_annuus Guizotia_abyssinica Jacobaea_vulgaris Cynara_humilis Saussurea_involucrata Silybum_marianum Centaurea_diffusa Lactuca_sativa Brighamia_insignis Trachelium_caeruleum Oncinotis_tenuiloba Echites_umbellatus Pentalinon_luteum Nerium_oleander Asclepias_nivea Cynanchum_wilfordii Rhazya_stricta Catharanthus_roseus Gentiana_straminea Coffea_arabica Gynochthodes_officinalis Jasminum_nudiflorum Hesperelaea_palmeri Olea_europaea Dorcoceras_hygrometricum Plantago_maritima Plantago_media Scrophularia_takesimensis Andrographis_paniculata Sesamum_indicum Tanaecium_tetragonolobum Schwalbea_americana Lathraea_squamaria Lindenbergia_philippensis Boulardia_latisquama Cistanche_deserticola Epifagus_virginiana Conopholis_americana Orobanche_californica Orobanche_crenata Orobanche_gracilis Premna_microphylla Lavandula_angustifolia Rosmarinus_officinalis Salvia_miltiorrhiza Scutellaria_baicalensis Tectona_grandis Ajuga_reptans Genlisea_margaretae Pinguicula_ehlersiae Utricularia_gibba Cuscuta_gronovii Ipomoea_purpurea Nicotiana_tabacum Capsicum_annuum Datura_stramonium Atropa_belladonna Hyoscyamus_niger Dunalia_obovata Iochroma_nitidum Saracha_punctata Physalis_peruviana Lycopersicon_lycopersicum Solanum_bulbocastanum Osyris_alba Viscum_album Liquidambar_formosana Paeonia_obovata Sedum_sarmentosum Penthorum_chinense Larrea_tridentata Acacia_ligulata Inga_leiocalycina Leucaena_trichandra Lathyrus_odoratus Lathyrus_pubescens Pisum_sativum Lens_culinaris Vicia_sativa Cicer_arietinum Wisteria_floribunda Glycyrrhiza_glabra Astragalus_nakaianus Lotus_japonicus Millettia_pinnata Lupinus_luteus Glycine_tomentella Soja_max Phaseolus_vulgaris Vigna_radiata Trifolium_strictum Trifolium_aureum Trifolium_subterraneum Medicago_truncatula Cannabis_sativa Humulus_lupulus Ficus_racemosa Morus_indica Elaeagnus_macrophylla Prunus_persica Pyrus_pyrifolia Prinsepia_utilis Pentactina_rupicola Fragaria_vesca Corynocarpus_laevigata Cucumis_sativus Gynostemma_pentaphyllum Castanea_mollissima Lithocarpus_balansae Quercus_rubra Castanopsis_echinocarpa Trigonobalanus_doichangensis Juglans_regia Ostrya_rehderiana Euonymus_japonicus Chrysobalanus_icaco Couepia_guianensis Hirtella_racemosa Licania_alba Parinari_campestris Ricinus_communis Jatropha_curcas Manihot_esculenta Hevea_brasiliensis Populus_alba Salix_interior Viola_seoulensis Aethionema_cordifolium Olimarabidopsis_pumila Lobularia_maritima Arabis_hirsuta Brassica_napus Arabidopsis_thaliana Cardamine_impatiens Cochlearia_borzaeana Crucihimalaya_wallichii Eutrema_salsugineum Isatis_tinctoria Lepidium_virginicum Pachycladon_cheesemanii Carica_papaya Aquilaria_sinensis Theobroma_cacao Gossypium_hirsutum Hibiscus_syriacus Tilia_amurensis Boswellia_sacra Acer_morrisonense Dipteronia_sinensis Sapindus_mukorossi Azadirachta_indica Zanthoxylum_piperitum Citrus_aurantiifolia Erodium_carvifolium Erodium_chrysanthum Erodium_texanum1 Geranium_palmatum Hypseocharis_bilobata Monsonia_speciosa Pelargonium_x1 Viviania_marifolia Francoa_sonchifolia Melianthus_villosus Allosyncarpia_ternata Angophora_floribunda Corymbia_gummifera Eucalyptus_aromaphloia Stockwellia_quadrifida Eugenia_uniflora Oenothera_biennis Tetrastigma_hemsleyanum Vitis_vinifera;
+END;
+
+BEGIN CHARACTERS;
+DIMENSIONS newtaxa ntax=338 NCHAR=5598;
+FORMAT 
+	DATATYPE = standard 
+	GAP = - 
+	MISSING = ? 
+	SYMBOLS="0123456789A#C$EFG.IJ&L%>OPQ/'TU:*X<Z" 
+	[EQUATE="R={AG} Y={CT} M={AC} K={GT} S={CG} W={AT} H={ACT} B={CGT} V={ACG} D={AGT} N={ACGT} r={AG} y={CT} m={AC} k={GT} s={CG} w={AT} h={ACT} b={CGT} v={ACG} d={AGT} n={ACGT}"
+INTERLEAVE;]
+CHARSTATELABELS
+	5578 ind_pos_133_to_138  /absent indel_1 ,
+	5579 ind_pos_142_to_192  /absent indel_2 ,
+	5580 ind_pos_205_to_636  /absent indel_4+16 indel_4+22 indel_4+17+21+23 indel_6+7+12+16 indel_4+14+23 indel_5+23 indel_4+15+23 indel_6+7+9+10+11+19+23 indel_4+18+23 indel_4+13+20 indel_3+8+16 ,
+	5581 ind_pos_643_to_1086  /absent indel_29 indel_26+42 indel_24+37+38+40+48 indel_32+37+39+43 indel_31+44 indel_28 indel_26+45 indel_31+41 indel_31+42 indel_36+46 indel_25+42 indel_34+47 indel_26+43 indel_27 indel_30+42 indel_33+35+42 ,
+	5582 ind_pos_1096_to_1359  /absent indel_50+54+55+59 indel_50+54+56 indel_50+53+55+59 indel_50+54+55+60 indel_50+54+57 indel_50+54+59 indel_50+51 indel_50+52+55+59 indel_50+54+58+59 indel_49+54+55+59 indel_50+55+59 indel_54+55+59 ,
+	5583 ind_pos_1453_to_1455  /absent indel_61 ,
+	5584 ind_pos_1462_to_3915  /absent indel_62 indel_63 indel_64 indel_65+66 indel_65+67 ,
+	5585 ind_pos_3928_to_3930  /absent indel_68 ,
+	5586 ind_pos_3979_to_3990  /absent indel_69 ,
+	5587 ind_pos_4012_to_4023  /absent indel_70 indel_71 indel_70+72 ,
+	5588 ind_pos_4087_to_4098  /absent indel_74 indel_75 indel_73 indel_76 ,
+	5589 ind_pos_4120_to_4263  /absent indel_79+88 indel_80 indel_78+88 indel_78+85+88 indel_78+87+88 indel_83+85+88 indel_78+86+88 indel_77+84+85+88 indel_81+88 indel_82 indel_80+88 ,
+	5590 ind_pos_4267_to_4269  /absent indel_89 ,
+	5591 ind_pos_4276_to_4455  /absent indel_93+100 indel_93+101 indel_96+100 indel_95+99+100 indel_92+100 indel_94 indel_100 indel_97+100 indel_98+100 indel_93+103 indel_91+100 indel_90+100 indel_93+102 indel_93+104 ,
+	5592 ind_pos_4486_to_4488  /absent indel_105 ,
+	5593 ind_pos_4492_to_4500  /absent indel_106 ,
+	5594 ind_pos_4537_to_4539  /absent indel_107 ,
+	5595 ind_pos_4549_to_4563  /absent indel_109 indel_108 ,
+	5596 ind_pos_4579_to_4590  /absent indel_110 indel_111 ,
+	5597 ind_pos_4621_to_4629  /absent indel_112 ,
+	5598 ind_pos_4654_to_5568  /absent indel_114+120 indel_114+117 indel_117 indel_114+117+144+152+157+162 indel_114 indel_114+117+136+152+157+162 indel_114+119+126 indel_113+117 indel_115+133+141 indel_114+118+140 indel_114+116 indel_114+117+138 indel_114+125 indel_114+117+134+149 indel_114+120+142+152 indel_114+117+135+152+153 indel_114+123+148+154 indel_114+128+147+152 indel_115+137 indel_114+117+137 indel_114+118+151+152+155+160 indel_114+117+139+152 indel_114+121+127+129+130+143+158 indel_114+117+139+152+156+161 indel_114+117+145+163+164 indel_114+122+127+129+131+132+146+152+159+165+166 indel_114+117+150+152 indel_114+124 indel_114+117+141 
+;
+
+MATRIX
+
+Acacia_ligulata                01111111110101111111?
+Acer_morrisonense              01112121110111111111?
+Acorus_calamus                 01111121110111111111?
+Aethionema_cordifolium         01111121110111111111?
+Ageratina_adenophora           01111121110111111111?
+Agrostemma_githago             01111121110111111111?
+Ajuga_reptans                  01111121110111111111?
+Akebia_trifoliata              01111121110111111111?
+Allium_cepa                    01111121110111111111?
+Allosyncarpia_ternata          01111121110111111111?
+Amborella_trichopoda           01111121110111111111?
+Ananas_comosus                 01112121110111111111?
+Andrographis_paniculata        01111121110111111111?
+Anethum_graveolens             01111121110111111111?
+Angelica_acutiloba             01111121110111111111?
+Angophora_floribunda           01111121110111111111?
+Anomochloa_marantoidea         011111211101111111114
+Anthriscus_cerefolium          01111121110111111111?
+Aquilaria_sinensis             01111121120111111111?
+Arabidopsis_thaliana           01111121110111111111?
+Arabis_hirsuta                 01111121110111111111?
+Aralia_undulata                01112121110111111111?
+Ardisia_polysticta             01112121110111111111?
+Aristida_purpurea              011111211101111111116
+Artemisia_frigida              01111121110111111111?
+Asclepias_nivea                01111121110112111111?
+Aster_spathulifolius           01111121110111111111?
+Astragalus_nakaianus           01111121110111111111?
+Atropa_belladonna              01111121110111111111?
+Azadirachta_indica             01112121110111111111?
+Bambusa_oldhamii               011111211101111111116
+Berberis_bealei                01113121110201011111?
+Bismarckia_nobilis             01111121110111111111?
+Bletilla_striata               01112121110111111111?
+Bomarea_edulis                 01111121110111111111?
+Boswellia_sacra                01112121110111111111?
+Boulardia_latisquama           01112121110111111111?
+Brassaiopsis_hainla            01112121110111111111?
+Brassica_napus                 01111121110111111111?
+Brighamia_insignis             01121121110111111111?
+Bromus_vulgaris                011111211101111111116
+Bupleurum_falcatum             01112121110111111111?
+Buxus_microphylla              01111121110111111111?
+Calamus_caryotoides            01111121110111111111?
+Calanthe_triplicata            01112121110111111111?
+Camellia_cuspidata             01112121110311111111?
+Camellia_sinensis              01112121110111111111?
+Campynema_lineare              01112121110111111111?
+Cannabis_sativa                01112121110111111111?
+Capsicum_annuum                01111121110111111111?
+Cardamine_impatiens            01111121110111111111?
+Carica_papaya                  01111121110111111111?
+Carludovica_palmata            01112121110111111111?
+Carnegiea_gigantea             01111121110113111111?
+Castanea_mollissima            01112121110411111111?
+Castanopsis_echinocarpa        01112121110411111111?
+Catharanthus_roseus            01112121110511111111?
+Cattleya_crispata              01112121110111111111?
+Centaurea_diffusa              01112121110411111111?
+Ceratophyllum_demersum         01111121110111111111?
+Chloranthus_spicatus           01112121110111111111?
+Chrysanthemum_x                01111121110111111111?
+Chrysobalanus_icaco            01112121110111111111?
+Cicer_arietinum                01111121110111111111?
+Cistanche_deserticola          01112121110111111111?
+Citrus_aurantiifolia           01111121110111111111?
+Clematis_terniflora            01114121110111111111?
+Cochlearia_borzaeana           01111121110111111111?
+Coffea_arabica                 01111121110111111111?
+Colobanthus_quitensis          01111121110111111111?
+Colocasia_esculenta            01111121110111111111?
+Colpothrinax_cookii            01111121110111111111?
+Conopholis_americana           01112121110111111111?
+Corallorhiza_bulbosa           01111121110111111111?
+Corymbia_gummifera             01111121110111111111?
+Corynocarpus_laevigata         01111121110111111111?
+Couepia_guianensis             01112121110111111111?
+Crucihimalaya_wallichii        01111121110111111111?
+Cryophytum_crystallinum        01111121110411111111?
+Cucumis_sativus                01111121110111111111?
+Curcuma_roscoeana              01111121110111111111?
+Cuscuta_gronovii               01111121110111111111?
+Cymbidium_aloifolium           01112121110111111111?
+Cynanchum_wilfordii            01111121110111111111?
+Cynara_humilis                 01111121110111111111?
+Cypripedium_macranthos         01111121110111111111?
+Danthonia_californica          011111211101111111116
+Dasypogon_bromeliifolius       01111121110111111111?
+Datura_stramonium              01111121110611111111?
+Daucus_carota                  01111121110111111111?
+Dendrobium_catenatum           01111121110111111111?
+Dendropanax_dentiger           01111121110111111111?
+Dieffenbachia_seguine          01111121110111111111?
+Dioscorea_elephantipes         01112121110111111111?
+Dipteronia_sinensis            01112121110111111111?
+Dorcoceras_hygrometricum       01112121110411111111?
+Drimys_granadensis             01111121110111111111?
+Dunalia_obovata                01111121110111111111?
+Echites_umbellatus             01111121110111111111?
+Elaeagnus_macrophylla          01114121110111111111?
+Elaeis_guineensis              01111121110111111111?
+Eleutherococcus_senticosus     01111121110111111111?
+Elleanthus_sodiroi             01111121110111111111?
+Elodea_canadensis              01112121110111111111?
+Epifagus_virginiana            01111121110111111111?
+Epimedium_sagittatum           01231121110111111111?
+Epipogium_roseum               01111121110111111111?
+Eragrostis_minor               011111211101111111116
+Erodium_carvifolium            01111121130111111111?
+Erodium_chrysanthum            01111121130111111111?
+Erycina_pusilla                01115121110111111111?
+Eucalyptus_aromaphloia         01111121110111111111?
+Eugenia_uniflora               01112121110111111111?
+Euonymus_japonicus             01112121110111111111?
+Euptelea_pleiosperma           01111121110111111111?
+Eustrephus_latifolius          01111021110114111111?
+Eutrema_salsugineum            01111121110111111111?
+Fatsia_japonica                01112121110111111111?
+Ferrocalamus_rimosivaginus     011111211101111111116
+Ficus_racemosa                 01116121110711111111?
+Foeniculum_vulgare             01111121110111111111?
+Francoa_sonchifolia            01111121110111111111?
+Fritillaria_cirrhosa           01112121110111111111?
+Genlisea_margaretae            01111121110111111111?
+Gentiana_straminea             01112121111111111111?
+Geranium_palmatum              01141120112111111111?
+Glycine_tomentella             01111121110111111111?
+Glycyrrhiza_glabra             01111121110111111111?
+Goodyera_fumata                01111121110111111111?
+Gossypium_hirsutum             01111121110111111111?
+Guizotia_abyssinica            01111121110111111111?
+Gynochthodes_officinalis       01117121110111111111?
+Gynostemma_pentaphyllum        01112121110111111111?
+Habenaria_pantlingiana         01112121110111111111?
+Haloxylon_ammodendron          01111121110111111111?
+Helianthus_annuus              01111121110111111111?
+Heliconia_collinsiana          01111121110111111111?
+Heloniopsis_tubiflora          01112121110111111111?
+Hesperelaea_palmeri            01111121110111111111?
+Hevea_brasiliensis             01112121110111111111?
+Hibiscus_syriacus              01112121110411111111?
+Hirtella_racemosa              01112121110111111111?
+Humulus_lupulus                01112121110111111111?
+Hyoscyamus_niger               01112121110111111111?
+Hypseocharis_bilobata          01111121110111111111?
+Illicium_oligandrum            01111121110111111111?
+Inga_leiocalycina              01111121110115111111?
+Iochroma_nitidum               01112121110111111111?
+Ipomoea_purpurea               01111121110111111111?
+Iris_gatesii                   01111121110111111111?
+Isachne_distichophylla         011111211101111111116
+Isatis_tinctoria               01111121110111111111?
+Jacobaea_vulgaris              01111121110111111111?
+Jasminum_nudiflorum            01311121100111111011?
+Jatropha_curcas                01112121110111111111?
+Juglans_regia                  01112121110411111111?
+Kalopanax_septemlobus          01112121110111111111?
+Lactuca_sativa                 01111121110111111111?
+Larrea_tridentata              01118121110411111111?
+Lathraea_squamaria             01111121110611111111?
+Lathyrus_odoratus              01111121110111111111?
+Lathyrus_pubescens             01111121110811111111?
+Lavandula_angustifolia         01111121110111111111?
+Lemna_minor                    01111121110111111111?
+Lens_culinaris                 01111121110111111111?
+Leontopodium_leiolepis         01111121110111111111?
+Lepidium_virginicum            01111121110111111111?
+Leucaena_trichandra            01112121110111111111?
+Licania_alba                   01112121110111111111?
+Ligusticum_tenuissimum         01111121110111111111?
+Lilium_hansonii                01112121110111111111?
+Lindenbergia_philippensis      01111121110111111111?
+Liquidambar_formosana          01111121110111111111?
+Liriodendron_tulipifera        01111121110111111111?
+Lithocarpus_balansae           01112121110411111111?
+Lobularia_maritima             01111121110111111111?
+Lonicera_japonica              01111121110111111111?
+Lotus_japonicus                01111121110111111111?
+Lupinus_luteus                 01111121110111111111?
+Luzuriaga_radicans             01111121110111111111?
+Lycopersicon_lycopersicum      01111121110111111111?
+Lysimachia_coreana             01111121110111111111?
+Macadamia_integrifolia         01111121110111111111?
+Machilus_yunnanensis           01111121110111111111?
+Magnolia_kwangsiensis          01112121110111111111?
+Manihot_esculenta              01112121110111111111?
+Masdevallia_coccinea           01111121110111111111?
+Medicago_truncatula            01111121110911111111?
+Megaleranthis_saniculifolia    01114121110111111111?
+Melianthus_villosus            01112121110111111111?
+Metanarthecium_luteoviride     01112121110111111111?
+Metapanax_delavayi             01112121110111111111?
+Millettia_pinnata              01111121110111111111?
+Monsonia_speciosa              01451121110111111111?
+Morus_indica                   01111121110111111111?
+Musa_textilis                  01111121110111111111?
+Najas_flexilis                 01561121110111111111?
+Nandina_domestica              01111121110111111111?
+Nelumbo_lutea                  01112121110411111111?
+Neottia_nidus-avis             01111121110111111111?
+Nerium_oleander                01111121110111111111?
+Nicotiana_tabacum              01111121110111111111?
+Nuphar_advena                  01111121110111111111?
+Nymphaea_alba                  01111121110111111111?
+Oenothera_biennis              01171121110101111111?
+Olea_europaea                  01111121110111111111?
+Olimarabidopsis_pumila         01111121110111111111?
+Oncidium_hybrid                01111121110111111111?
+Oncinotis_tenuiloba            01111121110111111111?
+Orobanche_californica          01111121110111111111?
+Orobanche_crenata              01111121112101111111?
+Orobanche_gracilis             01111121112101111111?
+Ostrya_rehderiana              01112121110411111111?
+Osyris_alba                    01111121110111111111?
+Pachycladon_cheesemanii        01111121110111111111?
+Pachysandra_terminalis         01111121110111111111?
+Paeonia_obovata                01112121110111111111?
+Panax_ginseng                  01111121110111111111?
+Papaver_somniferum             01111121110111111111?
+Paphiopedilum_niveum           01112121110111111111?
+Parinari_campestris            01112121110111111111?
+Paris_verticillata             01112121110111111111?
+Pastinaca_pimpinellifolia      01111121110111111111?
+Pentactina_rupicola            01111121110111111111?
+Pentalinon_luteum              01111121110111111111?
+Penthorum_chinense             01112121110111111111?
+Pharus_lappulaceus             011111211101111111116
+Phaseolus_vulgaris             01119121110911111111?
+Phoenix_dactylifera            01111121110111111111?
+Phragmipedium_longifolium      01112121110111111111?
+Phragmites_australis           011111211101111111116
+Physalis_peruviana             01111121110111111111?
+Pinellia_ternata               01111121110111111111?
+Pinguicula_ehlersiae           01111121110111111111?
+Piper_cenocladum               01111121110111111111?
+Pisum_sativum                  01111121110111111111?
+Plantago_maritima              01611131110116101111?
+Plantago_media                 0118A121110111111111?
+Platanus_occidentalis          01111121110111111111?
+Podococcus_barteri             01111121110111111111?
+Polygonatum_cyrtonema          01111121110111111111?
+Populus_alba                   01111121110111111111?
+Praxelis_clematidea            01112121110111111111?
+Premna_microphylla             01112121110111111111?
+Primula_poissonii              01112121110311111111?
+Prinsepia_utilis               01112121110111111111?
+Prunus_persica                 01112121110111111111?
+Pseudophoenix_vinifera         01111121110111111111?
+Puelia_olyriformis             011111211101111111116
+Pyrus_pyrifolia                01112121110111111111?
+Quercus_rubra                  01112121110411111111?
+Ranunculus_macranthus          01114121110111111111?
+Ravenala_madagascariensis      01191121110111111111?
+Rhazya_stricta                 01111121110111111111?
+Rheum_palmatum                 01111121110111111111?
+Rhizanthella_gardneri          01111121110111111111?
+Ricinus_communis               01112121110111111111?
+Rosmarinus_officinalis         01111121110111111111?
+Sabal_domingensis              01111121110111111111?
+Salicornia_brachiata           01111121110111111111?
+Salix_interior                 01111121110111111111?
+Salvia_miltiorrhiza            01111121110111111111?
+Sapindus_mukorossi             01112121110A11111111?
+Saracha_punctata               01111121110111111111?
+Saussurea_involucrata          01112121110411111111?
+Schefflera_delavayi            01112121110111111111?
+Schwalbea_americana            01111121110111111111?
+Sciaphila_densiflora           01112121110111111111?
+Scrophularia_takesimensis      01112121110111111111?
+Scutellaria_baicalensis        01111121110111111111?
+Sedum_sarmentosum              01112121110111111111?
+Sesamum_indicum                01111121110111111111?
+Seseli_montanum                01111121110111111111?
+Silene_conica                  01711121110117111111?
+Silene_conoidea                01711121110118111111?
+Silene_latifolia               01111121110111111111?
+Silene_noctiflora              ?11A1121110119111111?
+Silene_paradoxa                ?????121110111111111?
+Silene_vulgaris                01111121110111111111?
+Silybum_marianum               01111121110111111111?
+Sinopodophyllum_hexandrum      01111121110111111111?
+Sobralia_callosa               01112121110111111111?
+Soja_max                       01111121110111111111?
+Solanum_bulbocastanum          01111121110111111111?
+Spinacia_oleracea              01111121110111111111?
+Spirodela_polyrhiza            01112121110111111111?
+Stephania_japonica             01111121110111111111?
+Stockwellia_quadrifida         01111121110111111111?
+Syagrus_coronata               01111121110111111111?
+Tanaecium_tetragonolobum       01711121113111111111?
+Tectona_grandis                01112121110111111111?
+Tetracentron_sinense           01111121110111111111?
+Tetrastigma_hemsleyanum        01112121110111111111?
+Thalictrum_coreanum            01111121110111111111?
+Theobroma_cacao                01111121110111111111?
+Tilia_amurensis                01112121110111111111?
+Trachelium_caeruleum           018#112111011A111111?
+Trifolium_aureum               01111121110111111111?
+Trifolium_strictum             01111121110111111111?
+Trifolium_subterraneum         01111121110111111111?
+Trigonobalanus_doichangensis   01112121110411111111?
+Trillium_cuneatum              01112121110111111111P
+Trillium_tschonoskii           01111121110111111111?
+Trithuria_inconspicua          019C1121100111111111Q
+Triticum_aestivum              011111211101111111116
+Trochodendron_aralioides       01111121110111111111?
+Typha_latifolia                01112121110111111111?
+Utricularia_gibba              01112121110111111111?
+Vaccinium_macrocarpon          00A$112111411#111111?
+Vanilla_planifolia             01111121110111111111?
+Veratrum_patulum               01112121110#11111111?
+Vicia_sativa                   01111121110111111111?
+Vigna_radiata                  01119121110911111111?
+Viola_seoulensis               01112121110111111111?
+Viscum_album                   01111121110111111111?
+Vitis_vinifera                 01111121110111111111?
+Viviania_marifolia             01#1112111011C111111?
+Wisteria_floribunda            01111121110111111111?
+Wolffia_australiana            01112121110111111111?
+Wolffiella_lingulata           01111121110111111111?
+Xerophyllum_tenax              01112121110111111111?
+Zanthoxylum_piperitum          01112121110111111111?
+Zea_mays                       011111211101111111116
+Zingiber_spectabile            0111#121110111111111?
+Calycanthus_floridus           01111121110111111111?
+Carex_siderosticta1            111E114111011$111111?
+Carex_siderosticta2            0111114111011E111101?
+Carex_siderosticta3            01111151110111111111?
+Oryza_sativa                   011111211101111111116
+Phalaenopsis_aphrodite         01111121110111111111?
+Petrosavia_stellaris1          01112121110111111111?
+Meliosma_aff                   01111121110111111111?
+Fagopyrum_esculentum           01111121110111111111?
+Silene_chalcedonica1           0111C121110111111111?
+Silene_chalcedonica2           01111121110101111221?
+Fragaria_vesca                 01112121110411111111?
+Erodium_texanum1               011F1121120111111111?
+Pelargonium_x1                 011G1121110111111111?
+;
+END;
+
+BEGIN ASSUMPTIONS;
+
+[char 5580, indel char 3 (205-636):  0 (absent), 1 (indel_4+16), 2 (indel_4+22), 3 (indel_4+17+21+23), 4 (indel_6+7+12+16), 5 (indel_4+14+23), 6 (indel_5+23), 7 (indel_4+15+23), 8 (indel_6+7+9+10+11+19+23), 9 (indel_4+18+23), A (indel_4+13+20), # (indel_3+8+16)]
+
+usertype stepmatrix5580 (stepmatrix)=12
+
+    0 1 2 3 4 5 6 7 8 9 A # 
+
+[0] 0 4 4 4 4 4 4 4 7 4 4 4 
+[1] 4 0 1 2 2 1 2 1 4 2 2 1 
+[2] 4 1 0 3 2 2 2 2 4 2 2 2 
+[3] 4 2 3 0 2 1 2 1 3 1 2 2 
+[4] 4 2 2 2 0 2 2 2 4 2 2 2 
+[5] 4 1 2 1 2 0 1 1 4 1 2 2 
+[6] 4 2 2 2 2 1 0 1 4 1 2 2 
+[7] 4 1 2 1 2 1 1 0 4 1 2 2 
+[8] 7 4 4 3 4 4 4 4 0 4 4 4 
+[9] 4 2 2 1 2 1 1 1 4 0 3 2 
+[A] 4 2 2 2 2 2 2 2 4 3 0 2 
+[#] 4 1 2 2 2 2 2 2 4 2 2 0 
+;
+
+[prior to adjustment to satisfy triangle inequality:]
+
+   [0 1 2 3 4 5 6 7 8 9 A # 
+
+[0] 0 2 2 4 4 3 2 3 7 3 3 3 
+[1] 2 0 1 1 1 1 2 1 2 1 1 1 
+[2] 2 1 0 3 2 2 2 2 3 2 2 2 
+[3] 4 1 3 0 2 1 1 1 3 1 2 2 
+[4] 4 1 2 2 0 2 2 2 4 2 2 2 
+[5] 3 1 2 1 2 0 1 1 2 1 2 2 
+[6] 2 2 2 1 2 1 0 1 1 1 2 2 
+[7] 3 1 2 1 2 1 1 0 2 1 2 2 
+[8] 7 2 3 3 4 2 1 2 0 2 3 3 
+[9] 3 1 2 1 2 1 1 1 2 0 3 2 
+[A] 3 1 2 2 2 2 2 2 3 3 0 2 
+[#] 3 1 2 2 2 2 2 2 3 2 2 0 
+;]
+
+
+
+[char 5581, indel char 4 (643-1086):  0 (absent), 1 (indel_29), 2 (indel_26+42), 3 (indel_24+37+38+40+48), 4 (indel_32+37+39+43), 5 (indel_31+44), 6 (indel_28), 7 (indel_26+45), 8 (indel_31+41), 9 (indel_31+42), A (indel_36+46), # (indel_25+42), C (indel_34+47), $ (indel_26+43), E (indel_27), F (indel_30+42), G (indel_33+35+42)]
+
+usertype stepmatrix5581 (stepmatrix)=17
+
+    0 1 2 3 4 5 6 7 8 9 A # C $ E F G 
+
+[0] 0 3 3 5 4 2 3 3 2 2 2 3 2 3 3 2 3 
+[1] 3 0 1 3 2 2 2 1 1 1 2 2 1 1 2 1 2 
+[2] 3 1 0 3 2 2 2 1 2 1 2 1 2 1 2 1 2 
+[3] 5 3 3 0 4 3 3 3 3 3 3 3 3 3 3 3 3 
+[4] 4 2 2 4 0 2 2 2 2 2 3 2 2 1 2 2 3 
+[5] 2 2 2 3 2 0 2 2 1 1 2 3 2 2 2 2 2 
+[6] 3 2 2 3 2 2 0 2 2 2 2 2 1 1 1 2 2 
+[7] 3 1 1 3 2 2 2 0 2 2 2 2 2 1 2 2 2 
+[8] 2 1 2 3 2 1 2 2 0 1 2 3 2 2 2 2 2 
+[9] 2 1 1 3 2 1 2 2 1 0 2 2 2 2 2 1 2 
+[A] 2 2 2 3 3 2 2 2 2 2 0 3 3 2 2 3 4 
+[#] 3 2 1 3 2 3 2 2 3 2 3 0 2 2 2 1 1 
+[C] 2 1 2 3 2 2 1 2 2 2 3 2 0 2 1 2 2 
+[$] 3 1 1 3 1 2 1 1 2 2 2 2 2 0 1 2 2 
+[E] 3 2 2 3 2 2 1 2 2 2 2 2 1 1 0 2 2 
+[F] 2 1 1 3 2 2 2 2 2 1 3 1 2 2 2 0 1 
+[G] 3 2 2 3 3 2 2 2 2 2 4 1 2 2 2 1 0 
+;
+
+[prior to adjustment to satisfy triangle inequality:]
+
+   [0 1 2 3 4 5 6 7 8 9 A # C $ E F G 
+
+[0] 0 1 2 5 4 2 1 2 2 2 2 2 2 2 1 2 3 
+[1] 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+[2] 2 1 0 2 2 2 2 1 2 1 2 1 2 1 2 1 1 
+[3] 5 1 2 0 4 3 1 2 3 3 3 2 3 2 1 3 3 
+[4] 4 1 2 4 0 2 1 2 2 2 3 2 2 1 1 2 3 
+[5] 2 1 2 3 2 0 2 2 1 1 2 3 2 2 2 2 2 
+[6] 1 1 2 1 1 2 0 2 2 2 1 2 1 1 1 2 2 
+[7] 2 1 1 2 2 2 2 0 2 2 2 2 2 1 2 2 2 
+[8] 2 1 2 3 2 1 2 2 0 1 2 3 2 2 2 2 2 
+[9] 2 1 1 3 2 1 2 2 1 0 2 2 2 2 2 1 1 
+[A] 2 1 2 3 3 2 1 2 2 2 0 3 3 2 1 3 4 
+[#] 2 1 1 2 2 3 2 2 3 2 3 0 2 2 2 1 1 
+[C] 2 1 2 3 2 2 1 2 2 2 3 2 0 2 1 2 2 
+[$] 2 1 1 2 1 2 1 1 2 2 2 2 2 0 1 2 2 
+[E] 1 1 2 1 1 2 1 2 2 2 1 2 1 1 0 2 2 
+[F] 2 1 1 3 2 2 2 2 2 1 3 1 2 2 2 0 1 
+[G] 3 1 1 3 3 2 2 2 2 1 4 1 2 2 2 1 0 
+;]
+
+
+
+[char 5582, indel char 5 (1096-1359):  0 (absent), 1 (indel_50+54+55+59), 2 (indel_50+54+56), 3 (indel_50+53+55+59), 4 (indel_50+54+55+60), 5 (indel_50+54+57), 6 (indel_50+54+59), 7 (indel_50+51), 8 (indel_50+52+55+59), 9 (indel_50+54+58+59), A (indel_49+54+55+59), # (indel_50+55+59), C (indel_54+55+59)]
+
+usertype stepmatrix5582 (stepmatrix)=13
+
+    0 1 2 3 4 5 6 7 8 9 A # C 
+
+[0] 0 4 3 4 4 3 3 2 4 4 4 3 3 
+[1] 4 0 1 1 1 1 1 2 1 1 1 1 1 
+[2] 3 1 0 2 2 1 1 1 2 1 2 2 2 
+[3] 4 1 2 0 2 2 2 2 1 2 2 1 2 
+[4] 4 1 2 2 0 1 2 2 2 2 2 2 2 
+[5] 3 1 1 2 1 0 1 2 2 1 2 2 2 
+[6] 3 1 1 2 2 1 0 1 2 1 2 2 2 
+[7] 2 2 1 2 2 2 1 0 2 2 2 1 2 
+[8] 4 1 2 1 2 2 2 2 0 2 2 1 2 
+[9] 4 1 1 2 2 1 1 2 2 0 2 2 2 
+[A] 4 1 2 2 2 2 2 2 2 2 0 2 1 
+[#] 3 1 2 1 2 2 2 1 1 2 2 0 2 
+[C] 3 1 2 2 2 2 2 2 2 2 1 2 0 
+;
+
+[prior to adjustment to satisfy triangle inequality:]
+
+   [0 1 2 3 4 5 6 7 8 9 A # C 
+
+[0] 0 4 3 4 4 3 3 2 4 4 4 3 3 
+[1] 4 0 1 1 1 1 1 1 1 1 1 1 1 
+[2] 3 1 0 2 2 1 1 1 2 1 2 2 2 
+[3] 4 1 2 0 2 2 2 1 1 2 2 1 2 
+[4] 4 1 2 2 0 1 2 2 2 2 2 2 2 
+[5] 3 1 1 2 1 0 1 2 2 1 2 2 2 
+[6] 3 1 1 2 2 1 0 1 2 1 2 2 2 
+[7] 2 1 1 1 2 2 1 0 1 1 2 1 2 
+[8] 4 1 2 1 2 2 2 1 0 2 2 1 2 
+[9] 4 1 1 2 2 1 1 1 2 0 2 2 2 
+[A] 4 1 2 2 2 2 2 2 2 2 0 2 1 
+[#] 3 1 2 1 2 2 2 1 1 2 2 0 2 
+[C] 3 1 2 2 2 2 2 2 2 2 1 2 0 
+;]
+
+
+
+[char 5584, indel char 7 (1462-3915):  0 (absent), 1 (indel_62), 2 (indel_63), 3 (indel_64), 4 (indel_65+66), 5 (indel_65+67)]
+
+usertype stepmatrix5584 (stepmatrix)=6
+
+    0 1 2 3 4 5 
+
+[0] 0 1 1 1 2 2 
+[1] 1 0 1 1 2 1 
+[2] 1 1 0 1 1 1 
+[3] 1 1 1 0 1 1 
+[4] 2 2 1 1 0 1 
+[5] 2 1 1 1 1 0 
+;
+
+
+
+[char 5587, indel char 10 (4012-4023):  0 (absent), 1 (indel_70), 2 (indel_71), 3 (indel_70+72)]
+
+usertype stepmatrix5587 (stepmatrix)=4
+
+    0 1 2 3 
+
+[0] 0 1 1 2 
+[1] 1 0 1 1 
+[2] 1 1 0 2 
+[3] 2 1 2 0 
+;
+
+
+
+[char 5588, indel char 11 (4087-4098):  0 (absent), 1 (indel_74), 2 (indel_75), 3 (indel_73), 4 (indel_76)]
+
+usertype stepmatrix5588 (stepmatrix)=5
+
+    0 1 2 3 4 
+
+[0] 0 1 1 1 1 
+[1] 1 0 1 1 2 
+[2] 1 1 0 2 2 
+[3] 1 1 2 0 2 
+[4] 1 2 2 2 0 
+;
+
+
+
+[char 5589, indel char 12 (4120-4263):  0 (absent), 1 (indel_79+88), 2 (indel_80), 3 (indel_78+88), 4 (indel_78+85+88), 5 (indel_78+87+88), 6 (indel_83+85+88), 7 (indel_78+86+88), 8 (indel_77+84+85+88), 9 (indel_81+88), A (indel_82), # (indel_80+88)]
+
+usertype stepmatrix5589 (stepmatrix)=12
+
+    0 1 2 3 4 5 6 7 8 9 A # 
+
+[0] 0 2 2 2 3 3 3 3 4 2 2 2 
+[1] 2 0 2 1 1 1 1 1 2 1 1 1 
+[2] 2 2 0 2 2 2 2 2 2 2 1 1 
+[3] 2 1 2 0 1 1 2 1 2 1 1 1 
+[4] 3 1 2 1 0 1 1 1 1 1 2 1 
+[5] 3 1 2 1 1 0 2 1 2 1 1 1 
+[6] 3 1 2 2 1 2 0 2 2 1 1 1 
+[7] 3 1 2 1 1 1 2 0 2 1 1 1 
+[8] 4 2 2 2 1 2 2 2 0 2 2 2 
+[9] 2 1 2 1 1 1 1 1 2 0 1 1 
+[A] 2 1 1 1 2 1 1 1 2 1 0 1 
+[#] 2 1 1 1 1 1 1 1 2 1 1 0 
+;
+
+[prior to adjustment to satisfy triangle inequality:]
+
+   [0 1 2 3 4 5 6 7 8 9 A # 
+
+[0] 0 2 1 2 3 3 3 3 4 2 1 2 
+[1] 2 0 2 1 1 1 1 1 1 1 1 1 
+[2] 1 2 0 2 2 2 2 2 2 2 1 1 
+[3] 2 1 2 0 1 1 2 1 2 1 1 1 
+[4] 3 1 2 1 0 1 1 1 1 1 1 1 
+[5] 3 1 2 1 1 0 2 1 2 1 1 1 
+[6] 3 1 2 2 1 2 0 2 2 1 1 1 
+[7] 3 1 2 1 1 1 2 0 2 1 1 1 
+[8] 4 1 2 2 1 2 2 2 0 1 1 1 
+[9] 2 1 2 1 1 1 1 1 1 0 1 1 
+[A] 1 1 1 1 1 1 1 1 1 1 0 1 
+[#] 2 1 1 1 1 1 1 1 1 1 1 0 
+;]
+
+
+
+[char 5591, indel char 14 (4276-4455):  0 (absent), 1 (indel_93+100), 2 (indel_93+101), 3 (indel_96+100), 4 (indel_95+99+100), 5 (indel_92+100), 6 (indel_94), 7 (indel_100), 8 (indel_97+100), 9 (indel_98+100), A (indel_93+103), # (indel_91+100), C (indel_90+100), $ (indel_93+102), E (indel_93+104)]
+
+usertype stepmatrix5591 (stepmatrix)=15
+
+    0 1 2 3 4 5 6 7 8 9 A # C $ E 
+
+[0] 0 2 2 2 3 2 2 1 2 2 2 2 2 2 2 
+[1] 2 0 1 1 2 1 1 1 1 1 1 1 2 1 1 
+[2] 2 1 0 2 2 2 2 2 2 2 1 2 2 1 1 
+[3] 2 1 2 0 1 1 1 1 1 1 2 2 2 2 2 
+[4] 3 2 2 1 0 2 2 2 2 2 2 2 3 2 2 
+[5] 2 1 2 1 2 0 1 1 1 1 2 1 2 2 2 
+[6] 2 1 2 1 2 1 0 1 1 1 1 1 1 1 1 
+[7] 1 1 2 1 2 1 1 0 1 1 2 1 1 2 2 
+[8] 2 1 2 1 2 1 1 1 0 2 2 1 2 2 2 
+[9] 2 1 2 1 2 1 1 1 2 0 2 2 2 2 2 
+[A] 2 1 1 2 2 2 1 2 2 2 0 2 2 1 1 
+[#] 2 1 2 2 2 1 1 1 1 2 2 0 1 2 2 
+[C] 2 2 2 2 3 2 1 1 2 2 2 1 0 2 2 
+[$] 2 1 1 2 2 2 1 2 2 2 1 2 2 0 1 
+[E] 2 1 1 2 2 2 1 2 2 2 1 2 2 1 0 
+;
+
+[prior to adjustment to satisfy triangle inequality:]
+
+   [0 1 2 3 4 5 6 7 8 9 A # C $ E 
+
+[0] 0 2 2 2 3 2 1 1 2 2 2 2 2 2 2 
+[1] 2 0 1 1 1 1 1 1 1 1 1 1 1 1 1 
+[2] 2 1 0 2 2 2 2 2 2 2 1 2 2 1 1 
+[3] 2 1 2 0 1 1 1 1 1 1 2 2 2 2 2 
+[4] 3 1 2 1 0 1 1 2 2 2 2 2 3 2 2 
+[5] 2 1 2 1 1 0 1 1 1 1 2 1 1 2 2 
+[6] 1 1 2 1 1 1 0 1 1 1 1 1 1 1 1 
+[7] 1 1 2 1 2 1 1 0 1 1 2 1 1 2 2 
+[8] 2 1 2 1 2 1 1 1 0 2 2 1 2 2 2 
+[9] 2 1 2 1 2 1 1 1 2 0 2 2 2 2 2 
+[A] 2 1 1 2 2 2 1 2 2 2 0 2 2 1 1 
+[#] 2 1 2 2 2 1 1 1 1 2 2 0 1 2 2 
+[C] 2 1 2 2 3 1 1 1 2 2 2 1 0 2 2 
+[$] 2 1 1 2 2 2 1 2 2 2 1 2 2 0 1 
+[E] 2 1 1 2 2 2 1 2 2 2 1 2 2 1 0 
+;]
+
+
+
+[char 5595, indel char 18 (4549-4563):  0 (absent), 1 (indel_109), 2 (indel_108)]
+
+usertype stepmatrix5595 (stepmatrix)=3
+
+    0 1 2 
+
+[0] 0 1 1 
+[1] 1 0 1 
+[2] 1 1 0 
+;
+
+
+
+[char 5596, indel char 19 (4579-4590):  0 (absent), 1 (indel_110), 2 (indel_111)]
+
+usertype stepmatrix5596 (stepmatrix)=3
+
+    0 1 2 
+
+[0] 0 1 1 
+[1] 1 0 1 
+[2] 1 1 0 
+;
+
+
+
+[char 5598, indel char 21 (4654-5568):  0 (absent), 1 (indel_114+120), 2 (indel_114+117), 3 (indel_117), 4 (indel_114+117+144+152+157+162), 5 (indel_114), 6 (indel_114+117+136+152+157+162), 7 (indel_114+119+126), 8 (indel_113+117), 9 (indel_115+133+141), A (indel_114+118+140), # (indel_114+116), C (indel_114+117+138), $ (indel_114+125), E (indel_114+117+134+149), F (indel_114+120+142+152), G (indel_114+117+135+152+153), . (indel_114+123+148+154), I (indel_114+128+147+152), J (indel_115+137), & (indel_114+117+137), L (indel_114+118+151+152+155+160), % (indel_114+117+139+152), > (indel_114+121+127+129+130+143+158), O (indel_114+117+139+152+156+161), P (indel_114+117+145+163+164), Q (indel_114+122+127+129+131+132+146+152+159+165+166), / (indel_114+117+150+152), ' (indel_114+124), T (indel_114+117+141)]
+
+usertype stepmatrix5598 (stepmatrix)=30
+
+    0 1 2 3 4 5 6 7 8 9 A # C $ E F G . I J & L % > O P Q / ' T 
+
+[0] 0 6 6 6 6 2 6 6 6 6 6 6 6 4 6 6 5 6 4 6 6 6 6 7 6 6 11 6 6 6 
+[1] 6 0 1 2 5 5 5 2 3 3 2 2 2 2 3 2 4 3 3 2 2 5 3 3 5 4 5 3 3 3 
+[2] 6 1 0 3 4 5 4 2 2 3 2 1 3 2 2 3 3 3 3 2 2 5 2 3 4 3 5 2 3 3 
+[3] 6 2 3 0 5 5 5 3 3 3 3 3 3 2 3 4 4 4 4 3 3 6 3 4 5 4 6 3 3 3 
+[4] 6 5 4 5 0 5 1 5 6 4 4 5 3 5 4 4 4 6 4 4 3 4 3 4 3 2 5 3 4 3 
+[5] 2 5 5 5 5 0 5 5 5 5 5 5 5 3 5 5 4 5 3 5 5 5 5 6 5 4 10 5 5 5 
+[6] 6 5 4 5 1 5 0 5 6 5 5 5 3 5 4 5 4 6 4 4 3 4 4 5 4 3 5 3 4 3 
+[7] 6 2 2 3 5 5 5 0 3 3 3 2 3 3 3 3 4 5 5 3 3 5 3 4 5 4 5 3 3 3 
+[8] 6 3 2 3 6 5 6 3 0 4 4 3 4 3 4 5 5 5 5 3 3 7 4 5 6 5 5 4 4 4 
+[9] 6 3 3 3 4 5 5 3 4 0 3 3 4 3 4 3 4 3 3 3 4 3 3 4 3 5 5 3 3 3 
+[A] 6 2 2 3 4 5 5 3 4 3 0 3 3 2 4 2 3 3 2 3 3 3 2 4 3 5 5 2 3 3 
+[#] 6 2 1 3 5 5 5 2 3 3 3 0 2 2 3 4 4 3 4 2 2 6 3 3 5 4 5 3 3 3 
+[C] 6 2 3 3 3 5 3 3 4 4 3 2 0 2 3 2 2 3 3 2 2 4 1 4 3 4 5 3 3 3 
+[$] 4 2 2 2 5 3 5 3 3 3 2 2 2 0 3 3 4 3 4 2 2 5 3 3 5 4 7 3 4 2 
+[E] 6 3 2 3 4 5 4 3 4 4 4 3 3 3 0 4 3 3 3 4 3 3 3 4 3 4 5 3 3 3 
+[F] 6 2 3 4 4 5 5 3 5 3 2 4 2 3 4 0 4 4 2 2 2 4 2 3 4 5 5 3 3 3 
+[G] 5 4 3 4 4 4 4 4 5 4 3 4 2 4 3 4 0 4 3 4 3 4 3 5 5 4 6 2 3 2 
+[.] 6 3 3 4 6 5 6 5 5 3 3 3 3 3 3 4 4 0 4 3 3 4 4 4 6 4 5 3 3 3 
+[I] 4 3 3 4 4 3 4 5 5 3 2 4 3 4 3 2 3 4 0 3 3 4 2 5 4 4 7 2 3 2 
+[J] 6 2 2 3 4 5 4 3 3 3 3 2 2 2 4 2 4 3 3 0 1 4 2 4 4 5 5 3 3 3 
+[&] 6 2 2 3 3 5 3 3 3 4 3 2 2 2 3 2 3 3 3 1 0 4 1 4 3 4 5 3 3 3 
+[L] 6 5 5 6 4 5 4 5 7 3 3 6 4 5 3 4 4 4 4 4 4 0 4 5 4 4 7 4 4 4 
+[%] 6 3 2 3 3 5 4 3 4 3 2 3 1 3 3 2 3 4 2 2 1 4 0 4 2 4 5 3 3 3 
+[>] 7 3 3 4 4 6 5 4 5 4 4 3 4 3 4 3 5 4 5 4 4 5 4 0 5 5 7 4 4 4 
+[O] 6 5 4 5 3 5 4 5 6 3 3 5 3 5 3 4 5 6 4 4 3 4 2 5 0 4 6 3 4 3 
+[P] 6 4 3 4 2 4 3 4 5 5 5 4 4 4 4 5 4 4 4 5 4 4 4 5 4 0 6 3 5 3 
+[Q] 11 5 5 6 5 10 5 5 5 5 5 5 5 7 5 5 6 5 7 5 5 7 5 7 6 6 0 5 6 5 
+[/] 6 3 2 3 3 5 3 3 4 3 2 3 3 3 3 3 2 3 2 3 3 4 3 4 3 3 5 0 2 1 
+['] 6 3 3 3 4 5 4 3 4 3 3 3 3 4 3 3 3 3 3 3 3 4 3 4 4 5 6 2 0 3 
+[T] 6 3 3 3 3 5 3 3 4 3 3 3 3 2 3 3 2 3 2 3 3 4 3 4 3 3 5 1 3 0 
+;
+
+[prior to adjustment to satisfy triangle inequality:]
+
+   [0 1 2 3 4 5 6 7 8 9 A # C $ E F G . I J & L % > O P Q / ' T 
+
+[0] 0 2 2 1 6 1 6 3 2 3 3 2 3 2 4 4 5 4 4 2 3 6 4 7 6 5 11 4 2 3 
+[1] 2 0 1 2 5 1 5 1 3 3 2 2 2 1 3 2 4 3 3 2 2 5 3 3 5 4 6 3 2 2 
+[2] 2 1 0 1 4 1 4 1 2 3 2 1 1 1 2 3 3 3 3 2 1 5 2 3 4 3 6 2 2 1 
+[3] 1 2 1 0 5 2 5 2 1 3 3 2 2 2 3 4 4 4 4 2 2 6 3 4 5 4 7 3 3 2 
+[4] 6 5 4 5 0 5 1 5 6 4 4 5 3 5 4 4 4 6 4 4 3 4 3 4 3 2 5 3 4 2 
+[5] 1 1 1 2 5 0 5 2 3 3 2 1 2 1 3 3 4 3 3 2 2 5 3 6 5 4 10 3 1 2 
+[6] 6 5 4 5 1 5 0 5 6 5 5 5 3 5 4 5 4 6 4 4 3 4 4 5 4 3 5 3 4 3 
+[7] 3 1 1 2 5 2 5 0 3 3 2 1 2 3 3 3 4 5 5 2 2 5 3 4 5 4 7 3 2 2 
+[8] 2 3 2 1 6 3 6 3 0 4 4 3 3 3 4 5 5 5 5 3 3 7 4 5 6 5 8 4 4 3 
+[9] 3 3 3 3 4 3 5 3 4 0 3 3 4 3 4 3 4 3 3 3 4 3 3 3 3 5 6 3 3 2 
+[A] 3 2 2 3 4 2 5 2 4 3 0 3 3 2 4 2 3 2 2 3 3 2 2 2 3 5 5 2 3 2 
+[#] 2 2 1 2 5 1 5 1 3 3 3 0 2 1 3 4 4 3 4 2 2 6 3 3 5 4 6 3 2 2 
+[C] 3 2 1 2 3 2 3 2 3 4 3 2 0 2 3 2 2 2 2 2 1 3 1 3 3 4 5 1 3 2 
+[$] 2 1 1 2 5 1 5 3 3 3 2 1 2 0 3 3 4 3 4 2 2 5 3 4 5 4 7 3 1 2 
+[E] 4 3 2 3 4 3 4 3 4 4 4 3 3 3 0 4 3 3 3 4 3 3 3 4 3 4 6 2 3 2 
+[F] 4 2 3 4 4 3 5 3 5 3 2 4 2 3 4 0 4 4 2 2 2 4 2 3 4 5 5 2 2 2 
+[G] 5 4 3 4 4 4 4 4 5 4 3 4 2 4 3 4 0 4 3 4 3 4 3 5 5 4 6 2 3 2 
+[.] 4 3 3 4 6 3 6 5 5 3 2 3 2 3 3 4 4 0 4 3 3 4 4 4 6 4 6 3 2 2 
+[I] 4 3 3 4 4 3 4 5 5 3 2 4 2 4 3 2 3 4 0 2 2 4 2 5 4 4 7 2 1 2 
+[J] 2 2 2 2 4 2 4 2 3 3 3 2 2 2 4 2 4 3 2 0 1 4 2 3 4 5 5 2 3 3 
+[&] 3 2 1 2 3 2 3 2 3 4 3 2 1 2 3 2 3 3 2 1 0 4 1 3 3 4 5 1 3 2 
+[L] 6 5 5 6 4 5 4 5 7 3 2 6 3 5 3 4 4 4 4 4 4 0 4 5 4 4 7 4 4 2 
+[%] 4 3 2 3 3 3 4 3 4 3 2 3 1 3 3 2 3 4 2 2 1 4 0 4 2 4 5 1 2 1 
+[>] 7 3 3 4 4 6 5 4 5 3 2 3 3 4 4 3 5 4 5 3 3 5 4 0 5 5 7 3 2 2 
+[O] 6 5 4 5 3 5 4 5 6 3 3 5 3 5 3 4 5 6 4 4 3 4 2 5 0 4 6 3 4 1 
+[P] 5 4 3 4 2 4 3 4 5 5 5 4 4 4 4 5 4 4 4 5 4 4 4 5 4 0 4 3 5 3 
+[Q] 11 6 6 7 5 10 5 7 8 6 5 6 5 7 6 5 6 6 7 5 5 7 5 7 6 4 0 5 4 5 
+[/] 4 3 2 3 3 3 3 3 4 3 2 3 1 3 2 2 2 3 2 2 1 4 1 3 3 3 5 0 2 1 
+['] 2 2 2 3 4 1 4 2 4 3 3 2 3 1 3 2 3 2 1 3 3 4 2 2 4 5 4 2 0 3 
+[T] 3 2 1 2 2 2 3 2 3 2 2 2 2 2 2 2 2 2 2 3 2 2 1 2 1 3 5 1 3 0 
+;]
+
+typeset complexIndelCoding = stepmatrix5580: 5580,stepmatrix5581: 5581,stepmatrix5582: 5582,stepmatrix5584: 5584,stepmatrix5587: 5587,stepmatrix5588: 5588,stepmatrix5589: 5589,stepmatrix5591: 5591,stepmatrix5595: 5595,stepmatrix5596: 5596,stepmatrix5598: 5598;
+;
+
+END;
+
+
+BEGIN SETS;
+  CHARSET indels = 5578-5598;
+END;
+
+BEGIN PAUP;
+assume typeset=complexIndelCoding;
+END;
+
+
+[Indels:
+
+No.	extension
+
+ 1	133-138
+ 2	142-192
+ 3	205-261
+ 4	205-489
+ 5	205-600
+ 6	208-219
+ 7	253-258
+ 8	274-489
+ 9	298-300
+ 10	346-375
+ 11	424-489
+ 12	427-432
+ 13	499-507
+ 14	499-588
+ 15	499-597
+ 16	499-636
+ 17	505-507
+ 18	505-579
+ 19	511-573
+ 20	511-636
+ 21	541-561
+ 22	607-624
+ 23	607-636
+ 24	643-753
+ 25	643-972
+ 26	643-978
+ 27	643-1062
+ 28	643-1074
+ 29	643-1086
+ 30	646-972
+ 31	646-978
+ 32	652-693
+ 33	652-699
+ 34	652-972
+ 35	706-963
+ 36	754-978
+ 37	769-774
+ 38	835-912
+ 39	838-912
+ 40	946-963
+ 41	985-1086
+ 42	991-1083
+ 43	994-1062
+ 44	994-1077
+ 45	994-1083
+ 46	997-1047
+ 47	1006-1032
+ 48	1006-1041
+ 49	1096-1122
+ 50	1102-1116
+ 51	1120-1356
+ 52	1126-1137
+ 53	1126-1146
+ 54	1126-1149
+ 55	1153-1350
+ 56	1153-1356
+ 57	1153-1359
+ 58	1156-1350
+ 59	1354-1356
+ 60	1354-1359
+ 61	1453-1455
+ 62	1462-3909
+ 63	1462-3912
+ 64	1462-3915
+ 65	1468-2655
+ 66	2659-3912
+ 67	2665-3906
+ 68	3928-3930
+ 69	3979-3990
+ 70	4012-4014
+ 71	4012-4020
+ 72	4018-4023
+ 73	4087-4092
+ 74	4087-4095
+ 75	4090-4095
+ 76	4093-4098
+ 77	4120-4134
+ 78	4120-4164
+ 79	4120-4221
+ 80	4120-4224
+ 81	4120-4227
+ 82	4120-4263
+ 83	4123-4164
+ 84	4141-4149
+ 85	4168-4221
+ 86	4171-4212
+ 87	4177-4212
+ 88	4249-4260
+ 89	4267-4269
+ 90	4276-4284
+ 91	4276-4383
+ 92	4276-4389
+ 93	4276-4392
+ 94	4276-4449
+ 95	4282-4356
+ 96	4282-4386
+ 97	4288-4323
+ 98	4291-4386
+ 99	4381-4386
+ 100	4405-4449
+ 101	4405-4455
+ 102	4408-4446
+ 103	4408-4449
+ 104	4426-4446
+ 105	4486-4488
+ 106	4492-4500
+ 107	4537-4539
+ 108	4549-4563
+ 109	4561-4563
+ 110	4579-4584
+ 111	4579-4590
+ 112	4621-4629
+ 113	4654-4659
+ 114	4657-4662
+ 115	4657-4923
+ 116	4669-4917
+ 117	4669-4923
+ 118	4678-4923
+ 119	4681-4710
+ 120	4681-4920
+ 121	4693-4701
+ 122	4693-4704
+ 123	4693-4911
+ 124	4693-5049
+ 125	4699-4908
+ 126	4714-4914
+ 127	4729-4731
+ 128	4741-4920
+ 129	4750-4845
+ 130	4852-4908
+ 131	4861-4881
+ 132	4894-4905
+ 133	4936-4938
+ 134	4939-4941
+ 135	4942-5037
+ 136	4948-5037
+ 137	4948-5121
+ 138	4948-5133
+ 139	4951-5043
+ 140	4951-5136
+ 141	4951-5364
+ 142	4954-5043
+ 143	4954-5049
+ 144	4957-5037
+ 145	4957-5364
+ 146	4960-5031
+ 147	4960-5037
+ 148	4960-5049
+ 149	4960-5364
+ 150	4975-5028
+ 151	4975-5037
+ 152	5047-5049
+ 153	5053-5133
+ 154	5056-5133
+ 155	5059-5127
+ 156	5059-5136
+ 157	5059-5364
+ 158	5068-5136
+ 159	5080-5397
+ 160	5146-5364
+ 161	5191-5364
+ 162	5368-5568
+ 163	5371-5397
+ 164	5401-5568
+ 165	5404-5487
+ 166	5500-5568
+]
+
+
