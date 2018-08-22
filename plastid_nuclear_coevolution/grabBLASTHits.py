@@ -1,6 +1,8 @@
 '''Make sure that the BLAST result file, the database fasta file, and the 
 BLASTHits.py file are all in the same directory. 
 
+This script was written by Joel Sharbrough: https://github.com/jsharbrough/grabContigs
+
 To run this in a unix environment move into the working directory containing 
 your sequence list, the assembly file in fasta format, and the 
 grabBLASTHits.py program. Then type the following:
